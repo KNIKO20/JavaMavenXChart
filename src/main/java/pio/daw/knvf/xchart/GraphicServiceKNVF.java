@@ -17,7 +17,7 @@ public class GraphicServiceKNVF {
                 .build();
 
         this.categoryChart = new CategoryChartBuilder()
-                .width(600).height(400)
+                .width(1000).height(400)
                 .title("Category Chart")
                 .xAxisTitle("Categoría")
                 .yAxisTitle("Valor")
